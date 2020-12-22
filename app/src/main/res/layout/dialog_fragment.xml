@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/round_corner">
+
+    <!--<RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+        <ImageView
+            android:id="@+id/showNotificationPanelIV"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:src="@mipmap/quick_panel"/>
+        <ImageView
+            android:id="@+id/backKeyIV"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/back"
+            android:layout_marginEnd="30dp"
+            android:layout_below="@id/showNotificationPanelIV"
+            android:layout_toStartOf="@id/showNotificationPanelIV"/>
+        <ImageView
+            android:id="@+id/homeKeyIV"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/home3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:layout_below="@id/showNotificationPanelIV" />
+        <ImageView
+            android:id="@+id/recentsKeyIV"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/square1"
+            android:layout_marginStart="30dp"
+            android:layout_below="@id/showNotificationPanelIV"
+            android:layout_toEndOf="@id/showNotificationPanelIV"/>
+    </RelativeLayout>-->
+
+</RelativeLayout>
